@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137293739856",
+    "project_id": "classroomexpensesplitter",
+    "storage_bucket": "classroomexpensesplitter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137293739856:android:126bd9f5c279ecafc65e55",
+        "android_client_info": {
+          "package_name": "com.example.classroom_expense_splitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45jWp9pzhxlpJ85ZDP-vglFj0HcrKgyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
